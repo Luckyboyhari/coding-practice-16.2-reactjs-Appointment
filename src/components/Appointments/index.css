@@ -1,0 +1,69 @@
+/* Write your CSS here */
+.bg-con {
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-con {
+  background-color: white;
+  height: 70vh;
+  width: 80vw;
+  border-radius: 10px;
+}
+.input {
+  margin-bottom: 15px;
+  width: 25vw;
+  height: 30px;
+}
+.label1 {
+  margin-bottom: 10px;
+}
+.card1 {
+  padding-left: 50px;
+  padding-right: 150px;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+}
+.image {
+  width: 28vw;
+  padding-top: 40px;
+}
+.button {
+  background-color: #8b5cf6;
+  width: 50px;
+  height: 25px;
+  border-radius: 6px;
+  border-width: 0px;
+  color: white;
+}
+.hr-line {
+  width: 75vw;
+}
+.heading {
+  padding-left: 50px;
+  font-size: 20px;
+}
+.butt {
+  background-color: transparent;
+  border-radius: 8px;
+  border-width: 1px;
+  color: blue;
+  margin-right: 30px;
+  margin-top: 20px;
+}
+.app {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.change {
+  background-color: #8b5cf6;
+  color: white;
+}
